@@ -52,3 +52,8 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 [... full MIT license text ...]
+```
+## 👤 Author
+Nomanguni Khumalo — AI & Robotics Enthusiast from Johannesburg
+🔗 GitHub: @Nomanguni
+📫 Email: nomangunik25@gmail.com
