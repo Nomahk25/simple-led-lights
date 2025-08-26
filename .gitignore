@@ -1,0 +1,19 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Wokwi simulation cache
+.wokwi
+
+# VSCode / IDE files
+.vscode/
+.idea/
